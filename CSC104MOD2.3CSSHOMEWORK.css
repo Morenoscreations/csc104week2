@@ -1,0 +1,56 @@
+
+
+body{
+    /* color for main background */
+	    background: -webkit-linear-gradient(right, #c99aea, #ffffff, #bdfcf1);
+	/* I dont know what this one does???  */
+        background: -moz-linear-gradient(right, #030303, #ff006a, #ffffff);
+}
+
+h1{
+    /* top title color and font */
+	    color: #ff008c;
+	/* changes top title font */
+        font-family:cursive;
+}
+
+h2{
+    /* changes the next title color and font */
+	    color: #ff0073;
+	/* changes the next title font */
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h3{
+    /* Changes all the subtitles color */
+	    color: #dd06feac;
+       /* changes font to differnt look  */
+        font-weight: bolder;
+     /* size the text */
+        font-size: xx-large;
+	/* Makes shadows behind the words */
+        text-shadow:0 0 4px rgb(253, 248, 248);
+	/* changes all subtitles font */
+        font-family:cursive
+}
+h4{
+    /* trying things out */
+    color: crimson;
+    font-family:monospace;
+    font-weight:bolder;
+    font-size: larger;
+    /* cool press f scrole to float moves it to the righ */
+  float: right;
+}
+
+p{
+    /* changes all papgraphs color */
+	    color: #000000;
+	/* changes all paragrphs font */
+        font-family: cursive;font-size:large                        
+}
+
+/* not sure what this does??? */
+a:visited{
+	color: rgb(43, 255, 0);
+}
